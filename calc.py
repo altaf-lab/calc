@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 
 
     def calculator(num1,num2,opr):
